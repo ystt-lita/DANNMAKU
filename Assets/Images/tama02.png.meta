@@ -1,0 +1,3283 @@
+fileFormatVersion: 2
+guid: e653d92c6af447f449442a4d1f655693
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3267188539720947955
+    second: tama02_0
+  - first:
+      213: 7619581879556176802
+    second: tama02_1
+  - first:
+      213: -2592489673641545791
+    second: tama02_2
+  - first:
+      213: -351271824114695584
+    second: tama02_3
+  - first:
+      213: -5552938724899659484
+    second: tama02_4
+  - first:
+      213: 2959535478798682046
+    second: tama02_5
+  - first:
+      213: -6977718130880697943
+    second: tama02_6
+  - first:
+      213: 1873830263028076025
+    second: tama02_7
+  - first:
+      213: -2027506860912116533
+    second: tama02_8
+  - first:
+      213: 7043382499035804495
+    second: tama02_9
+  - first:
+      213: -4998643310825146303
+    second: tama02_10
+  - first:
+      213: 693824543028679584
+    second: tama02_11
+  - first:
+      213: 622619557543847201
+    second: tama02_12
+  - first:
+      213: -3808263860881428473
+    second: tama02_13
+  - first:
+      213: 1118631878242096216
+    second: tama02_14
+  - first:
+      213: 2200191539975367680
+    second: tama02_15
+  - first:
+      213: 3084396216324694570
+    second: tama02_16
+  - first:
+      213: 694059029493521041
+    second: tama02_17
+  - first:
+      213: 6048028000273417109
+    second: tama02_18
+  - first:
+      213: 8907681464439992958
+    second: tama02_19
+  - first:
+      213: 5262483706189711654
+    second: tama02_20
+  - first:
+      213: 8509084780425066722
+    second: tama02_21
+  - first:
+      213: -9075711896069165022
+    second: tama02_22
+  - first:
+      213: 7339562068715567755
+    second: tama02_23
+  - first:
+      213: 3641408578247766628
+    second: tama02_24
+  - first:
+      213: -1392402487976347558
+    second: tama02_25
+  - first:
+      213: -7822188017996129160
+    second: tama02_26
+  - first:
+      213: 3409753797851172014
+    second: tama02_27
+  - first:
+      213: -5249723631152626165
+    second: tama02_28
+  - first:
+      213: -9184472597094028297
+    second: tama02_29
+  - first:
+      213: 7281611552861744075
+    second: tama02_30
+  - first:
+      213: -6500518384240359190
+    second: tama02_31
+  - first:
+      213: -2473418449790725427
+    second: tama02_32
+  - first:
+      213: -5610099508984758850
+    second: tama02_33
+  - first:
+      213: 6711157839952378574
+    second: tama02_34
+  - first:
+      213: 2212393644691444147
+    second: tama02_35
+  - first:
+      213: 5776584306039315352
+    second: tama02_36
+  - first:
+      213: -3012834867544041369
+    second: tama02_37
+  - first:
+      213: -5562887330742530088
+    second: tama02_38
+  - first:
+      213: -2675881561687135487
+    second: tama02_39
+  - first:
+      213: 4439619571449325491
+    second: tama02_40
+  - first:
+      213: 4226925518811033490
+    second: tama02_41
+  - first:
+      213: 725487936559201598
+    second: tama02_42
+  - first:
+      213: -322312472351020517
+    second: tama02_43
+  - first:
+      213: -5919494424604075826
+    second: tama02_44
+  - first:
+      213: -1563537229230336768
+    second: tama02_45
+  - first:
+      213: -6565785830863973012
+    second: tama02_46
+  - first:
+      213: -832826089776153568
+    second: tama02_47
+  - first:
+      213: -8229201596973957838
+    second: tama02_48
+  - first:
+      213: 3451376332256579136
+    second: tama02_49
+  - first:
+      213: -1429055805512745772
+    second: tama02_50
+  - first:
+      213: 3104029726151770950
+    second: tama02_51
+  - first:
+      213: 1080277159751287607
+    second: tama02_52
+  - first:
+      213: -2960747430927243761
+    second: tama02_53
+  - first:
+      213: -4774768152758815507
+    second: tama02_54
+  - first:
+      213: -6300009788775575891
+    second: tama02_55
+  - first:
+      213: 1992421957157524771
+    second: tama02_56
+  - first:
+      213: -4315677382571561433
+    second: tama02_57
+  - first:
+      213: 8495259793544192891
+    second: tama02_58
+  - first:
+      213: -6374940938739518462
+    second: tama02_59
+  - first:
+      213: 7562873310916565162
+    second: tama02_60
+  - first:
+      213: -8686184629543310690
+    second: tama02_61
+  - first:
+      213: 6407094356991011621
+    second: tama02_62
+  - first:
+      213: 1386148419477969956
+    second: tama02_63
+  - first:
+      213: 3363882102560410703
+    second: tama02_64
+  - first:
+      213: 7657832946644695774
+    second: tama02_65
+  - first:
+      213: 6241141616827136788
+    second: tama02_66
+  - first:
+      213: -7463678290975712090
+    second: tama02_67
+  - first:
+      213: -5078826920714608775
+    second: tama02_68
+  - first:
+      213: -3476881285829501469
+    second: tama02_69
+  - first:
+      213: 6222067914295083092
+    second: tama02_70
+  - first:
+      213: -8316048861192501221
+    second: tama02_71
+  - first:
+      213: -7682077127666470569
+    second: tama02_72
+  - first:
+      213: -8153530838439364544
+    second: tama02_73
+  - first:
+      213: -2854327259728229764
+    second: tama02_74
+  - first:
+      213: 353635274064728825
+    second: tama02_75
+  - first:
+      213: -6811984973386991045
+    second: tama02_76
+  - first:
+      213: -4215671009825591193
+    second: tama02_77
+  - first:
+      213: 6825570207225099966
+    second: tama02_78
+  - first:
+      213: 6124734616897486119
+    second: tama02_79
+  - first:
+      213: -6146978977491561505
+    second: tama02_80
+  - first:
+      213: -7103857245541192339
+    second: tama02_81
+  - first:
+      213: -942135939744480543
+    second: tama02_82
+  - first:
+      213: 4937095745285200345
+    second: tama02_83
+  - first:
+      213: 5334843795930720158
+    second: tama02_84
+  - first:
+      213: -8042194091620481083
+    second: tama02_85
+  - first:
+      213: -8689968635178612676
+    second: tama02_86
+  - first:
+      213: 9014623676649822577
+    second: tama02_87
+  - first:
+      213: -3791819052329958850
+    second: tama02_88
+  - first:
+      213: -4886185038997317367
+    second: tama02_89
+  - first:
+      213: 7681478193262655930
+    second: tama02_90
+  - first:
+      213: -820778962192712839
+    second: tama02_91
+  - first:
+      213: 6446989323841980859
+    second: tama02_92
+  - first:
+      213: 2567129147060263437
+    second: tama02_93
+  - first:
+      213: 1271328403287579746
+    second: tama02_94
+  - first:
+      213: 3187180160002901937
+    second: tama02_95
+  - first:
+      213: 6863493375516509778
+    second: tama02_96
+  - first:
+      213: 1803514893416678112
+    second: tama02_97
+  - first:
+      213: 5755285790686725016
+    second: tama02_98
+  - first:
+      213: 8625793810903096592
+    second: tama02_99
+  - first:
+      213: -4675310433237530163
+    second: tama02_100
+  - first:
+      213: 4285592393436419566
+    second: tama02_101
+  - first:
+      213: -569367302660799806
+    second: tama02_102
+  - first:
+      213: -8426315209335764826
+    second: tama02_103
+  - first:
+      213: -548236204701072737
+    second: tama02_104
+  - first:
+      213: -5600846584100742937
+    second: tama02_105
+  - first:
+      213: 3320977440772255817
+    second: tama02_106
+  - first:
+      213: -4558406258022881294
+    second: tama02_107
+  - first:
+      213: 5679565369398149040
+    second: tama02_108
+  - first:
+      213: 4395217087937165744
+    second: tama02_109
+  - first:
+      213: 7450010328012601965
+    second: tama02_110
+  - first:
+      213: -495169756810779909
+    second: tama02_111
+  - first:
+      213: -827925525686986870
+    second: tama02_112
+  - first:
+      213: -7799955750446267265
+    second: tama02_113
+  - first:
+      213: -5829304651610667563
+    second: tama02_114
+  - first:
+      213: -7702704252226889995
+    second: tama02_115
+  - first:
+      213: -5323136872850278511
+    second: tama02_116
+  - first:
+      213: 3164810592381663527
+    second: tama02_117
+  - first:
+      213: 5722041717812353508
+    second: tama02_118
+  - first:
+      213: -4954109669128068201
+    second: tama02_119
+  - first:
+      213: -5308135111876978301
+    second: tama02_120
+  - first:
+      213: 8633789190121077846
+    second: tama02_121
+  - first:
+      213: -1793862749589970681
+    second: tama02_122
+  - first:
+      213: -6702566097842724732
+    second: tama02_123
+  - first:
+      213: -122857179068880635
+    second: tama02_124
+  - first:
+      213: 355396058083034753
+    second: tama02_125
+  - first:
+      213: -1014678004648090916
+    second: tama02_126
+  - first:
+      213: -4832801266114786875
+    second: tama02_127
+  - first:
+      213: 2110037712034806698
+    second: tama02_128
+  - first:
+      213: -2155972999861532855
+    second: tama02_129
+  - first:
+      213: 1549925180417852657
+    second: tama02_130
+  - first:
+      213: -3164359560516074799
+    second: tama02_131
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tama02_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176df104e26eccc41a61f49fea4d9b61
+      internalID: -3267188539720947955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248eb1e403345f4a9cf71d1f51505eb
+      internalID: 7619581879556176802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791b7cbffe642d41bec484dfdd98f7f
+      internalID: -2592489673641545791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904661faf49f944f9f1ce64bc7a1a2d
+      internalID: -351271824114695584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cc3a6c1b39d644a6cc55bd99031f4
+      internalID: -5552938724899659484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a57af883bcc29439ce16fbe8f120c6
+      internalID: 2959535478798682046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e813b803577fd4a987942e8a639ffa
+      internalID: -6977718130880697943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97162afd84ad59c439045a6828def9f4
+      internalID: 1873830263028076025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf5bfaac645c04e8f3f8d44b3c54d9
+      internalID: -2027506860912116533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5be2b8ff308184eaddb4369d5660bb
+      internalID: 7043382499035804495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d217b21bebbd644955b56f3b3c47db
+      internalID: -4998643310825146303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5baee7b7c2de146ad031dd9d05c811
+      internalID: 693824543028679584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a33702d34046548a51effb04a90dd8
+      internalID: 622619557543847201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09660797cac5563418241801cac22412
+      internalID: -3808263860881428473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b251a01d77f33b4397fb983036af6dc
+      internalID: 1118631878242096216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba772ed9224094ea36af62eb35d862
+      internalID: 2200191539975367680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86246cd4e514c46a95a1eea6fca8da
+      internalID: 3084396216324694570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7522a4a072f734944b70ac67b9c66eeb
+      internalID: 694059029493521041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043429259ae7c3145a24c3133113898f
+      internalID: 6048028000273417109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed92662dfa6ea7458f91a5d4bf0ad18
+      internalID: 8907681464439992958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9742ec2716916d43964b837112cc1db
+      internalID: 5262483706189711654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1639ef4f1854049bc43efd4d9dc6de
+      internalID: 8509084780425066722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867753e775ba57e4fabee807a1ddba88
+      internalID: -9075711896069165022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bedc20896746f48a689e057ca89e67
+      internalID: 7339562068715567755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8594b5856d2be45be774d5cb13175a
+      internalID: 3641408578247766628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fb26a828e37424cb44bca2921b872b
+      internalID: -1392402487976347558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb98e25c0969e46ad3bfb2a6a09121
+      internalID: -7822188017996129160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e6c1ed5d159544af8bd644ec2e8c1
+      internalID: 3409753797851172014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7ec55ec801314193f5f6ed8d4fa34
+      internalID: -5249723631152626165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6457e6619b10448b4d4a5f0c93ec03
+      internalID: -9184472597094028297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becff4aa668e1a04bbb995db351ed16d
+      internalID: 7281611552861744075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e6cc486b89314d9e72dc051d2a8d6
+      internalID: -6500518384240359190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba08215fdda71f43aeb6798d12f5e1f
+      internalID: -2473418449790725427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d622d5bf95334b8c80ac16eb7877f
+      internalID: -5610099508984758850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ebbc09017ff548914e2606ae3efa8
+      internalID: 6711157839952378574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f20ba11a942974fabb27eeb7c08984
+      internalID: 2212393644691444147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8973d2dd6340354b9745363de576419
+      internalID: 5776584306039315352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3520f461ff954f89eb61ba4328502
+      internalID: -3012834867544041369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b3953c8faa924e9dec6939de1b8c2
+      internalID: -5562887330742530088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ebf18f9d71650448928a196b9e1ced
+      internalID: -2675881561687135487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1b5119e141cc44a5d0d0ecd50001e
+      internalID: 4439619571449325491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0c5b603d48564e85275cb8d5f22e4
+      internalID: 4226925518811033490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1764baa4e5ba4abcc921f6e6aeadf
+      internalID: 725487936559201598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e17ccc10247ff4c99e2c3d1f4addf5
+      internalID: -322312472351020517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83a51db7b97dc4bb6ee0a9b05a074d
+      internalID: -5919494424604075826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5dc46769dcc8419a00e5677cc89ac
+      internalID: -1563537229230336768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be3aa8969c550448fde6ae97b7ae58
+      internalID: -6565785830863973012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586634627d0265642b8701e1410904b0
+      internalID: -832826089776153568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c18613664c4ef46bdc4381f372ff62
+      internalID: -8229201596973957838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513722b486b4aa84081431ee5c9cc103
+      internalID: 3451376332256579136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf1a5b9e5f405449ffae47dd196760
+      internalID: -1429055805512745772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50849132dc9d3f0488635911411b768b
+      internalID: 3104029726151770950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320867e52726214d83288a6aaf945fa
+      internalID: 1080277159751287607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666e351d6e89ed646ae15586c20cdc8b
+      internalID: -2960747430927243761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db64d2e484b4345b6170dbc85ff037
+      internalID: -4774768152758815507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801489dfcabc121478872d4810b6564d
+      internalID: -6300009788775575891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0db664d97d9bf42b0868fade143882
+      internalID: 1992421957157524771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b69950fce8ae14da5989a9c36eb657
+      internalID: -4315677382571561433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1f99baaaf5e943843d6db9b507e2d
+      internalID: 8495259793544192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226595e5d56b8f542925de5816313ab2
+      internalID: -6374940938739518462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53187031556d3d44aa084d5208493823
+      internalID: 7562873310916565162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23054add093dc19499a5b1d042505af7
+      internalID: -8686184629543310690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13cac7fb86c3241b5d412ad84fb53b
+      internalID: 6407094356991011621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffee1988a9167e4681e67a08586ecbc
+      internalID: 1386148419477969956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4863696aae4f31478b342da95a4d623
+      internalID: 3363882102560410703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0053734d036a4d93a16b021147742
+      internalID: 7657832946644695774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f832778e532e4b84e9d1f143062c9b45
+      internalID: 6241141616827136788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e7e9b787df7842b293ab697410b78
+      internalID: -7463678290975712090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1b20446232864f9d4984c47ca6e0f
+      internalID: -5078826920714608775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72ef3bd2b8389459c50f9b311bca36
+      internalID: -3476881285829501469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c854949ffc83647886c2e0c2449c02
+      internalID: 6222067914295083092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87dcc5b2bcdc1f46a63729c5225a1d8
+      internalID: -8316048861192501221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d3242f5f87854bad8d92cc8d632bc
+      internalID: -7682077127666470569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_73
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679c99c1be1b3549bbd960e95bf4469
+      internalID: -8153530838439364544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec697c48b322c54393314f99d771e8e
+      internalID: -2854327259728229764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738711efabb117144a3f3f4b3cdef120
+      internalID: 353635274064728825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af18d15dafdd9754990db9ececfcbc6f
+      internalID: -6811984973386991045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d9d3455e9ed04a8c5247083cc0183
+      internalID: -4215671009825591193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272d7f82bfcc32449405b63ee42f09b
+      internalID: 6825570207225099966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28be7cb4755a04d9e7725d466adf66
+      internalID: 6124734616897486119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e95144d2d8808549a13fdfd8838229d
+      internalID: -6146978977491561505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24832d572ab6f7b44a6e8291e0e64f2f
+      internalID: -7103857245541192339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39049c3b259b654ead7042e664afb90
+      internalID: -942135939744480543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_83
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f8515be86e244fbad971415be6eca
+      internalID: 4937095745285200345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac6a5f9aa45994794ee494541ace0f
+      internalID: 5334843795930720158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf87a2b9d3114346813258d9bf3cc27
+      internalID: -8042194091620481083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d8c4391167ab45bbca84714f8dc3c
+      internalID: -8689968635178612676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190f4f5bc505e5469cea2c07f770822
+      internalID: 9014623676649822577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ede0019ee772942a499ede14b98dac
+      internalID: -3791819052329958850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c77adc667de964eac724d5e3b11ea3
+      internalID: -4886185038997317367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7a11510803c64d86bc0c2937bb67d
+      internalID: 7681478193262655930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad2a2115dd286940aa8557886a6a465
+      internalID: -820778962192712839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c071b163e3934bb5ee7ab5a6633a1
+      internalID: 6446989323841980859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1295696d656244fbf3dbf6d1c9fcd9
+      internalID: 2567129147060263437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e75530e84eda4e9fec9d721e30e31
+      internalID: 1271328403287579746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48adaa0b745fc54c9ba5d90d3738e1f
+      internalID: 3187180160002901937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b54a6a0cf8e284d83d92c32d82daf2
+      internalID: 6863493375516509778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce175269e61deb4cb38356bb5bc9b72
+      internalID: 1803514893416678112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134e76f30ce7754db5aaf2b37f3f524
+      internalID: 5755285790686725016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_99
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f85cd17b24f9146a438f3b5d09db8e
+      internalID: 8625793810903096592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af6b4b3471b2445b591473838bf22b
+      internalID: -4675310433237530163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d82ebbbaf6dc4ca10f9e2312937d9
+      internalID: 4285592393436419566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ede8ab5358ba4479caba72bf7efe66
+      internalID: -569367302660799806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7ec3004be0ab9448159a5ab1aaf77b
+      internalID: -8426315209335764826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9061c465a6585bb4fb452d159d93f49c
+      internalID: -548236204701072737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_105
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8894f8889a02ee4c97a83c2fd5480c9
+      internalID: -5600846584100742937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f202731c3af98c44be5bffa37ef2c19
+      internalID: 3320977440772255817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c265d4132a81046bd0af77f78190bb
+      internalID: -4558406258022881294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cc68616a936b4ca8e5b81b7af6b0b
+      internalID: 5679565369398149040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6dc5ec898f8c4f9b4b27ba2fa4cd7
+      internalID: 4395217087937165744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967d8ea35ed6064abb3e25439056a6a
+      internalID: 7450010328012601965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78379459a5bfb874e8e6aa73f38ef6b5
+      internalID: -495169756810779909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede9f836f3104e4da61f9c6674c791c
+      internalID: -827925525686986870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e25c937195884a8b4784a1bbd1474
+      internalID: -7799955750446267265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd72c2787a900f489f2b845a79a46c3
+      internalID: -5829304651610667563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_115
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50591d7ebdc4e04c96e21894a2061ea
+      internalID: -7702704252226889995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_116
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67012f7832e01984f84e68d44d417643
+      internalID: -5323136872850278511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_117
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5f8242060f5746bf6904e20d3f1bf
+      internalID: 3164810592381663527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa186e9ded7cc1d48926c30f466ce114
+      internalID: 5722041717812353508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef678edd01c3e6240aa5fd21731a31eb
+      internalID: -4954109669128068201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba68a52c4f00c244bcfddc5bb0dfe29
+      internalID: -5308135111876978301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c13d89f3a8ad543a9117707e0ea5be
+      internalID: 8633789190121077846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f2ad0974dec74096e826ce9f0cea7
+      internalID: -1793862749589970681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ffa706ccc3594f8daf6b46185a124
+      internalID: -6702566097842724732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_124
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b37073cbdf91643b906ead20e12750
+      internalID: -122857179068880635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6042ceefb73eb5548bb7c953a45c69cf
+      internalID: 355396058083034753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0795da2c7e9c94cb558f4741e28650
+      internalID: -1014678004648090916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160e3739fff85443b14f978498fea81
+      internalID: -4832801266114786875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429da9e456c45344aed02a59c4e7aed
+      internalID: 2110037712034806698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_129
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301113ca9d6e2c6429ac021d77639628
+      internalID: -2155972999861532855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410b845f912e1848b83b7dedc3a8344
+      internalID: 1549925180417852657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tama02_131
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5643d9b23a15884fba9b4d237f6455e
+      internalID: -3164359560516074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
